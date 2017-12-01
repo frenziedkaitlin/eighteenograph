@@ -32,7 +32,7 @@
 		+ aggressive Democratic gerrymandering
 		+ aggressive Republican gerrymandering
 		+ a more or less "fair" redistricting process
-	*so that* I can visualize the effects of gerrymandering on our representative bodies and the importance of state legislatures
+	+ *so that* I can visualize the effects of gerrymandering on our representative bodies and the importance of state legislatures
 	+ look at a breakdown of US Congressional districts based on different state house control possibilities that I can pick in a table (assuming aggressive processes by either party) *so that* I can see how different state legislative outcomes could translate to the future national landscape
 + **As an administrator, I can**
 	+ expect the app to rescrape ballotopedia automatically at ~3AM every morning *so that* the site's information stays up to date
